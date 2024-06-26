@@ -1,3 +1,8 @@
+i made the lottery wow
+
+Button A = Lotto odds (45,057,474)
+Button B = EuroMillions odds (139,838,160)
+
 
 > Open this page at [https://aza229432.github.io/microbit_lottery/](https://aza229432.github.io/microbit_lottery/)
 
