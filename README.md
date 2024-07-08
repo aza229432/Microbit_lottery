@@ -4,15 +4,6 @@ Button A = Lotto odds (45,057,474)
 Button B = EuroMillions odds (139,838,160)
 
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/aza229432/microbit_lottery** and import
-
 ## Edit this project
 
 To edit this repository in MakeCode.
